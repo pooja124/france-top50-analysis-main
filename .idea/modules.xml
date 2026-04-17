@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../France_Music_Analysis-main/France_Music_Analysis-main/.idea/France_Music_Analysis-main.iml" filepath="$PROJECT_DIR$/../../France_Music_Analysis-main/France_Music_Analysis-main/.idea/France_Music_Analysis-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/france-top50-analysis-main.iml" filepath="$PROJECT_DIR$/.idea/france-top50-analysis-main.iml" />
+    </modules>
+  </component>
+</project>
